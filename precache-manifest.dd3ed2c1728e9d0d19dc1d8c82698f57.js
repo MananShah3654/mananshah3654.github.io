@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f6a45ba0b329d362f9de20259803877b",
+    "revision": "aa3bc2a3b56663700c645571d14040ca",
     "url": "/index.html"
   },
   {
-    "revision": "eb6abb84226cd17e1da2",
-    "url": "/static/css/main.3cfa21cf.chunk.css"
+    "revision": "9169267b889011a65d21",
+    "url": "/static/css/main.4e62508a.chunk.css"
   },
   {
-    "revision": "d1bd2a675c6da2234ec1",
-    "url": "/static/js/2.fd7c935d.chunk.js"
+    "revision": "57f984519225a434c5f0",
+    "url": "/static/js/2.9fea27c6.chunk.js"
   },
   {
-    "revision": "eb6abb84226cd17e1da2",
-    "url": "/static/js/main.5d985131.chunk.js"
+    "revision": "9169267b889011a65d21",
+    "url": "/static/js/main.55baa89b.chunk.js"
   },
   {
     "revision": "fdbf8a22f915910a7bc3",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1d1376583b322105121ed8a6185931f4",
     "url": "/static/media/Manan.1d137658.png"
+  },
+  {
+    "revision": "e79f33121f33487be071ed3822077a64",
+    "url": "/static/media/Manan_fb.e79f3312.jpg"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -106,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",
     "url": "/static/media/data_science.ebf35d7f.svg"
+  },
+  {
+    "revision": "bc7cdd6094a2e0c0061cebd83d96d891",
+    "url": "/static/media/datasoft_logo.bc7cdd60.jpeg"
   },
   {
     "revision": "75a7107b7739a46950f66de29779eb52",
@@ -218,6 +226,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4581163e5d1bb9ebcc27c3176a775389",
     "url": "/static/media/gtu_logoee.4581163e.jpg"
+  },
+  {
+    "revision": "6a6f13725082accd96d3252993eec3e7",
+    "url": "/static/media/gu_logo.6a6f1372.png"
   },
   {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",

@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.3cfa21cf.chunk.css",
-    "main.js": "/static/js/main.5d985131.chunk.js",
-    "main.js.map": "/static/js/main.5d985131.chunk.js.map",
+    "main.css": "/static/css/main.4e62508a.chunk.css",
+    "main.js": "/static/js/main.55baa89b.chunk.js",
+    "main.js.map": "/static/js/main.55baa89b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a34758b5.js",
     "runtime-main.js.map": "/static/js/runtime-main.a34758b5.js.map",
-    "static/js/2.fd7c935d.chunk.js": "/static/js/2.fd7c935d.chunk.js",
-    "static/js/2.fd7c935d.chunk.js.map": "/static/js/2.fd7c935d.chunk.js.map",
+    "static/js/2.9fea27c6.chunk.js": "/static/js/2.9fea27c6.chunk.js",
+    "static/js/2.9fea27c6.chunk.js.map": "/static/js/2.9fea27c6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.18cd36479be9046030e568d2aaeec52d.js": "/precache-manifest.18cd36479be9046030e568d2aaeec52d.js",
+    "precache-manifest.dd3ed2c1728e9d0d19dc1d8c82698f57.js": "/precache-manifest.dd3ed2c1728e9d0d19dc1d8c82698f57.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.3cfa21cf.chunk.css.map": "/static/css/main.3cfa21cf.chunk.css.map",
+    "static/css/main.4e62508a.chunk.css.map": "/static/css/main.4e62508a.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Manan.png": "/static/media/Manan.1d137658.png",
+    "static/media/Manan_fb.jpg": "/static/media/Manan_fb.e79f3312.jpg",
     "static/media/NIC-LOGO-1.png": "/static/media/NIC-LOGO-1.d5e895d9.png",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.eaf02c2d.png",
@@ -26,6 +27,7 @@
     "static/media/codeInLogo.png": "/static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "/static/media/contactMail.5f915405.png",
     "static/media/data_science.svg": "/static/media/data_science.ebf35d7f.svg",
+    "static/media/datasoft_logo.jpeg": "/static/media/datasoft_logo.bc7cdd60.jpeg",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.75a7107b.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.3e23ca14.svg",
     "static/media/dsc_logo.png": "/static/media/dsc_logo.63f707f2.png",
@@ -40,6 +42,7 @@
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.a6addc3f.svg",
     "static/media/gtu_logo.png": "/static/media/gtu_logo.5cb05cd7.png",
     "static/media/gtu_logoee.jpg": "/static/media/gtu_logoee.4581163e.jpg",
+    "static/media/gu_logo.png": "/static/media/gu_logo.6a6f1372.png",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "/static/media/iiitk_logo.571a8584.png",
     "static/media/infosys_logo.png": "/static/media/infosys_logo.8011a035.png",
@@ -69,8 +72,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a34758b5.js",
-    "static/js/2.fd7c935d.chunk.js",
-    "static/css/main.3cfa21cf.chunk.css",
-    "static/js/main.5d985131.chunk.js"
+    "static/js/2.9fea27c6.chunk.js",
+    "static/css/main.4e62508a.chunk.css",
+    "static/js/main.55baa89b.chunk.js"
   ]
 }
